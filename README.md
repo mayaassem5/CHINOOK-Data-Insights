@@ -39,3 +39,7 @@ This project provides a comprehensive analysis of customer behavior and sales tr
 ## Conclusion
 
 This project demonstrates how data-driven insights can guide strategic decisions in digital media e-commerce. It emphasizes the importance of cleaning and analyzing data to uncover meaningful patterns and trends.
+
+## Contributers:
+- Fairouz Maher - [LinkedIn](https://www.linkedin.com/in/fairouz-ghazaly-76103227b/)
+- Maya Assem - [LinkedIn](https://www.linkedin.com/in/maya-assem-611b4723b)
