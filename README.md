@@ -36,12 +36,6 @@ This project provides a comprehensive analysis of customer behavior and sales tr
 - **Python Scripts**: Scripts for data extraction, cleaning, and visualization.
 - **Reports**: Detailed analysis results and visualizations.
 
-## Visualizations
-
-- Pie charts for customer segmentation.
-- Bar charts for top genres, tracks, and artists by revenue.
-- Line graphs for revenue trends over time.
-
 ## Conclusion
 
 This project demonstrates how data-driven insights can guide strategic decisions in digital media e-commerce. It emphasizes the importance of cleaning and analyzing data to uncover meaningful patterns and trends.
